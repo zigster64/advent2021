@@ -3,8 +3,7 @@ advent of code repo
 
 ## Results
 
-|       | Language | Runtime | Iterations |  Binary Size | Memory Use |
+|       | Language | Runtime | Iterations/10s |  Binary Size | Memory Use |
 |-------|----------|---------|------------|--------------|------------|
-| Day 1 | | | | | | 
-|       | Go 1.17 | 3.7 ms ±   0.4 ms | 768 runs | 2055936 | 222,112 bytes |
-|       | Zig 0.9 | 0.5 ms ±   0.1 ms | 2130 runs | 106344 | 1,184 bytes |
+| Day 1 | Go 1.17 | 0.9 ms ±   0.1 ms | 1576 runs | 1,623,236 | 222,112 bytes |
+|       | Zig 0.9 | 0.5 ms ±   0.1 ms | 2130 runs | 106,344 | 1,184 bytes |

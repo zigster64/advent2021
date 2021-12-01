@@ -4,24 +4,21 @@ import (
 	"io/ioutil"
 	"strconv"
 	"strings"
-	"time"
-
-	"github.com/steveoc64/memdebug"
 )
 
 func main() {
-	t1 := time.Now()
-	memdebug.Print(t1, "startup")
+	//t1 := time.Now()
+	//memdebug.Print(t1, "startup")
 	data, err := ioutil.ReadFile("input.data")
 	if err != nil {
 		panic(err)
 	}
 	lines := strings.Split(string(data), "\n")
-	memdebug.Print(t1, "loaded the data")
+	//memdebug.Print(t1, "loaded the data")
 	part1(lines)
-	memdebug.Print(t1, "done pass 1")
+	//memdebug.Print(t1, "done pass 1")
 	part2(lines)
-	memdebug.Print(t1, "done pass 2")
+	//memdebug.Print(t1, "done pass 2")
 }
 
 func part1(lines []string) {
