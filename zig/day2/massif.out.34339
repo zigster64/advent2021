@@ -1,0 +1,27 @@
+desc: (none)
+cmd: zig-out/bin/day2
+time_unit: i
+#-----------
+snapshot=0
+#-----------
+time=0
+mem_heap_B=0
+mem_heap_extra_B=0
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=1
+#-----------
+time=802340
+mem_heap_B=1120
+mem_heap_extra_B=8
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=2
+#-----------
+time=802401
+mem_heap_B=1184
+mem_heap_extra_B=16
+mem_stacks_B=0
+heap_tree=empty
