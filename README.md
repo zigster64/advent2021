@@ -11,4 +11,5 @@ advent of code repo
 | Day 2 | Go 1.17 | 2.5 ms ±   0.1 ms | 981 runs | 2,269,180 | 183,032 bytes |
 |       | Zig 0.9 | 0.5 ms ±   0.1 ms | 2281 runs | 93,024 | 1,184 bytes |
 |       | PHP 8.0 | 10.7 ms ±   0.3 ms | 266 runs | n/a | 2,452,808 bytes |
+|       | Haskell | 12.1 ms ±   0.1 ms | 241 runs | 2,655,992 |173,101 bytes |
 
